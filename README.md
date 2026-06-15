@@ -96,13 +96,6 @@ My UTM e-portfolio stores coursework, academic projects, and learning progress f
   </a>
 </p>
 
-| Repository | Focus |
-|---|---|
-| [Digital Logic](https://github.com/Elijah0413/digital-logic) | Digital logic fundamentals and coursework |
-| [Discrete Structure](https://github.com/Elijah0413/discrete-structure) | Mathematics and discrete structure learning materials |
-| [Uni Life](https://github.com/Elijah0413/uni_life) | University learning journey and personal academic records |
-| [Technology and Information System](https://github.com/Elijah0413/tis-technology-and-info-system) | Technology, information systems, and computing fundamentals |
-| [Programming Technique 1](https://github.com/Elijah0413/pt1_year1) | Programming fundamentals and early coding practice |
 
 ---
 
