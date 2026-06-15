@@ -1,71 +1,165 @@
+<div align="center">
 
-<!DOCTYPE html>
-<head>
-<center>
-<p align="center"> <img src="https://www.pngitem.com/pimgs/m/165-1659817_hello-tulisan-hello-png-transparent-png.png" height="100" ; width="500"> </p>
+# Hi there, I'm Elijah She Yu Sheng 👋
 
-</head>       
-<h1 style="text-align: left"> |Whatsupppppp ~ _~👋| </h1>
+### Data Engineering Student | Python & Data Analytics | Database & Data Technology Enthusiast
 
-<h2 style="text-align: right"> FUN FACT: DIDN'T LIKE PRAWN A ALL💢 </h2>
-   <p> <img align="right" width="50%" src="https://media.tenor.com/B4KaZHx5rh4AAAAM/shrimp-cute.gif" />                                                                                     
-       | 📛 | Name :      <pre> ELIJAH SHE YU SHENG            </p></pre>
-       | 📛 | matrik no :      <pre> A23CS0073           </p></pre>
-   <p> | 🏫 | College :   <pre> Labuan Matriculation College   </pre></p> 
-   <p> | 🏡 | University :<pre> University Technology Malaysia </pre></p>
-   <p> | 🏸 | Hobby :     <pre> Playing Badmintoon             </pre></p>
-
--✈️ I'm currently studying Bachelor of Computer Science (Data Engineering ) in Faculty of Computing, Universiti Teknologi Malaysia (UTM)😿 <br>
-
-
-
-# UTM-e-Portfolio
-<td width="180%">
-<a href="https://elijah0413.github.io/elijahshe0413.github.io/">E Portfolio</a>
-
-All projects done for Data Engineering year 1 Section 02 will be stored here.🤗
-
-<table>
-<tr>
-
-<td width="20%">
-<a href="https://github.com/Elijah0413/digital-logic">Digital Logic</a>
-
-</td>
-
-<td width="20%">
-<a href="https://github.com/Elijah0413/discrete-structure"> Discrete Structure </a>
-
-</td>
-
-<td width="20%">
-<a href="https://github.com/Elijah0413/uni_life">Uni Life </a>
-
-</td>
-<td width="20%">
-<a href="https://github.com/Elijah0413/tis-technology-and-info-system"> Technology and information System (tis) </a>
-</td>
-
-</td>
-<td width="20%">
-<a href="https://github.com/Elijah0413/pt1_year1">Programming Technique 1 </a>
-</td>
-</tr>
-</table>
-
-<p align="left"><a href="https://github.com/Elijah0413/digital-logic" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStCNSLYn-TgwoOjBkOfsl6luGNZs-ypQ_WQ&usqp=CAU" alt="digital logic" width="150" height="150"/> </a> <a href="https://github.com/Elijah0413/discrete-structure" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyYPhZoWPl7S28Kdjxw7E97-5ylPqQ84-Lew&usqp=CAU" alt="math" width="150" height="150"/> </a><a href="https://github.com/Elijah0413/uni_life" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1OpEBkJhUH6Hdt4qh4hPEr7NY2oH3qhw_OQ&usqp=CAU" alt="uni" width="150" height="150"/> </a><a href="https://github.com/Elijah0413/tis-technology-and-info-system" target="_blank" rel="noreferrer"> <img src="https://www.aeccglobal.my/images/2022/11/08/study-information--technology-abroad.webp" alt="tis" width="150" height="150"/> </a><a href="https://github.com/Elijah0413/pt1_year1" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQe403RAdmihMRMc88j66idCzC9pu17Rmww&usqp=CAU" alt="pt1" width="150" height="150"/> </a> </p>
-
-
-<h5  align="left">Connect with me:</h5>
-<p   align="left">
-<a   href="https://www.linkedin.com/in/esys-sheng-34a008299/"target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-     alt="https://www.linkedin.com/in/esys-sheng-34a008299/" height="30" width="40" /></a>
-<a href="https://instagram.com/elijahshe1334?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Elijah0414" height="30" width="40" /></a>
+<p>
+  <a href="mailto:elijahsheyu@graduate.utm.my">
+    <img src="https://img.shields.io/badge/Email-elijahsheyu%40graduate.utm.my-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/elijah-she-34a008299/">
+    <img src="https://img.shields.io/badge/LinkedIn-Elijah%20She-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://elijah0413.github.io/elijahshe0413.github.io/">
+    <img src="https://img.shields.io/badge/E--Portfolio-Visit%20Here-success?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
 </p>
 
-<h5 align="left">Languages and Tools:</h5>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elijah0413" alt="Elijah0413" /></a> </p>
-<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Elijah0413&" alt="Elijah0413" /><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Elijah0413&show_icons=true&locale=en" alt="Elijah0413" /></p>
+</div>
 
+---
+
+## 👨‍💻 About Me
+
+I am a **Year 3 Bachelor of Computer Science (Data Engineering)** undergraduate at **Universiti Teknologi Malaysia (UTM)** with a current **CGPA of 4.00**. I enjoy working with data, solving practical problems, and building solutions that connect technical skills with real-world business needs.
+
+I am especially interested in **data engineering, database systems, data analytics, business intelligence, and client-focused data technology solutions**. Besides technical development, I also enjoy communication, teamwork, leadership, and stakeholder engagement.
+
+- 🎓 Currently studying **Bachelor of Computer Science (Data Engineering)** at UTM  
+- 📊 Interested in **ETL, data pipelines, analytics, dashboards, and database technology**  
+- 💻 Strong foundation in **Python, Java, C++, MySQL, Pandas, and NumPy**  
+- 🤝 Experienced in **customer service, sales, leadership, and event coordination**  
+- 🔍 Seeking internship opportunities to apply both **technical and interpersonal skills**  
+- 🏸 Fun fact: I enjoy playing badminton, but I really do not like prawns 🦐
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Database
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Data & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### Web & Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📌 Current Learning Focus
+
+- Building stronger **data engineering foundations** through Python, SQL, and database systems  
+- Designing **ETL workflows**, data cleaning processes, and structured datasets  
+- Creating **dashboard insights** using analytics and visualization tools  
+- Improving project documentation, presentation, and communication skills  
+- Exploring how data technology can support business decision-making and client solutions  
+
+---
+
+## 🚀 Project & Portfolio Highlights
+
+| Area | Description |
+|---|---|
+| **Data Engineering** | Data cleaning, transformation, database design, and structured data processing |
+| **Business Intelligence** | Dashboard design, KPI analysis, visual storytelling, and business insight explanation |
+| **Programming** | Coursework and projects using Python, Java, C++, MySQL, Laravel, HTML, and CSS |
+| **AI / Machine Learning** | Learning CNN models, image classification, model evaluation, and performance comparison |
+| **Leadership & Collaboration** | Experience in leading teams, coordinating activities, and managing stakeholders |
+
+---
+
+## 📂 UTM E-Portfolio & Coursework Repositories
+
+My UTM e-portfolio stores coursework, academic projects, and learning progress from my Data Engineering journey.
+
+<p>
+  <a href="https://elijah0413.github.io/elijahshe0413.github.io/">
+    <img src="https://img.shields.io/badge/UTM%20E--Portfolio-Open%20Portfolio-brightgreen?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
+
+| Repository | Focus |
+|---|---|
+| [Digital Logic](https://github.com/Elijah0413/digital-logic) | Digital logic fundamentals and coursework |
+| [Discrete Structure](https://github.com/Elijah0413/discrete-structure) | Mathematics and discrete structure learning materials |
+| [Uni Life](https://github.com/Elijah0413/uni_life) | University learning journey and personal academic records |
+| [Technology and Information System](https://github.com/Elijah0413/tis-technology-and-info-system) | Technology, information systems, and computing fundamentals |
+| [Programming Technique 1](https://github.com/Elijah0413/pt1_year1) | Programming fundamentals and early coding practice |
+
+---
+
+## 🏆 Leadership, Activities & Achievements
+
+- **Dean's List Award** — Bachelor of Computer Science (Data Engineering)  
+- **C-House President** — Faculty of Computing, UTM  
+- **Vendor & Stakeholder Relations Manager** — PayNet Digital Campus 3.0  
+- **Student Category 2nd Runner Up** — PayNet Digital Campus 3.0  
+- **Church New Student Orientation Committee** — Skudai Chinese Methodist Church  
+- **Pre-Contract for Life Insurance Agents & Investment-Linked Life Insurance Examination**  
+
+---
+
+## 💼 Experience Snapshot
+
+| Role | Organization | Key Skills |
+|---|---|---|
+| CelcomDigi Promoter | CelcomDigi Store, Taman Molek | Client support, patience, product explanation |
+| Maxis Dealer | Maxis Centre, Permaisuri Mall | Customer needs analysis, communication, sales support |
+| Tuition Teacher | Sunrise Tuition / Online | Teaching, progress monitoring, parent communication |
+| Touch 'n Go Service | Online | Merchant registration, digital payment setup support |
+| Waiter | Various part-time roles | Multitasking, service mindset, customer interaction |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Elijah0413&show_icons=true&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Elijah0413&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="mailto:elijahsheyu@graduate.utm.my">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/elijah-she-34a008299/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/elijahshe1334/">
+    <img src="https://img.shields.io/badge/Instagram-elijahshe1334-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+_“Keep learning, keep building, and keep improving.”_
+
+</div>
