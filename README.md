@@ -142,7 +142,7 @@ My UTM e-portfolio stores coursework, academic projects, and learning progress f
   <a href="https://www.linkedin.com/in/elijah-she-34a008299/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://www.instagram.com/elijahshe1334/](https://www.instagram.com/elijahshe0413?igsh=NXc2NWNzajZldzVy&utm_source=qr)">
+  <a href="https://www.instagram.com/elijahshe0413?igsh=NXc2NWNzajZldzVy&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-elijahshe1334-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
