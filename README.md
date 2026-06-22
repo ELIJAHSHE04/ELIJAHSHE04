@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/elijah-she-34a008299/">
     <img src="https://img.shields.io/badge/LinkedIn-Elijah%20She-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://elijah0413.github.io/elijahshe0413.github.io/">
+  <a href="https://elijahshe04.github.io/">
     <img src="https://img.shields.io/badge/E--Portfolio-Visit%20Here-success?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
