@@ -91,7 +91,7 @@ I am especially interested in **data engineering, database systems, data analyti
 My UTM e-portfolio stores coursework, academic projects, and learning progress from my Data Engineering journey.
 
 <p>
-  <a href="https://elijah0413.github.io/elijahshe0413.github.io/">
+  <a href="https://elijahshe04.github.io/">
     <img src="https://img.shields.io/badge/UTM%20E--Portfolio-Open%20Portfolio-brightgreen?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
